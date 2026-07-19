@@ -1,5 +1,7 @@
 A Diablo 2 sound pack built on top of Neversink's Filter and Setharial's sound pack.
 
+**This is an initial release, not all items will have appropriate sounds.**
+
 Instructions:
 
 1. Download [the latest release](https://github.com/Lumi-sg/D2-Soundpack-for-Path-of-Exile-/releases) (`D2SoundsForPoE.zip`)
